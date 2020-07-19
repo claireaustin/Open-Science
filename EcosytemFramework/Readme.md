@@ -1,1 +1,1 @@
-Open science ecosystem: A systematic framework anchored in values, ethics, and FAIRER data
+# Open science ecosystem: A systematic framework anchored in values, ethics, and FAIRER data
